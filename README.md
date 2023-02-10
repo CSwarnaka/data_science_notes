@@ -1,4 +1,4 @@
-# data_science_notes
+# Data_science_notes
 This repository was created to store all my data science learning and lab materials.
 
 Notion - https://booming-canopy-d24.notion.site/DS_ML-Notes-c9d7000e2d0440d1a488cd55c2ea0f98
